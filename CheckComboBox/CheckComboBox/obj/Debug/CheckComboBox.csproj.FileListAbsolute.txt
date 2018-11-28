@@ -1,0 +1,11 @@
+C:\Users\roulinch\source\repos\CheckComboBox\CheckComboBox\bin\Debug\CheckComboBox.exe.config
+C:\Users\roulinch\source\repos\CheckComboBox\CheckComboBox\bin\Debug\CheckComboBox.exe
+C:\Users\roulinch\source\repos\CheckComboBox\CheckComboBox\bin\Debug\CheckComboBox.pdb
+C:\Users\roulinch\source\repos\CheckComboBox\CheckComboBox\obj\Debug\CheckComboBox.csprojAssemblyReference.cache
+C:\Users\roulinch\source\repos\CheckComboBox\CheckComboBox\obj\Debug\CheckComboBox.Form1.resources
+C:\Users\roulinch\source\repos\CheckComboBox\CheckComboBox\obj\Debug\CheckComboBox.Properties.Resources.resources
+C:\Users\roulinch\source\repos\CheckComboBox\CheckComboBox\obj\Debug\CheckComboBox.csproj.GenerateResource.cache
+C:\Users\roulinch\source\repos\CheckComboBox\CheckComboBox\obj\Debug\CheckComboBox.csproj.CoreCompileInputs.cache
+C:\Users\roulinch\source\repos\CheckComboBox\CheckComboBox\obj\Debug\CheckComboBox.exe
+C:\Users\roulinch\source\repos\CheckComboBox\CheckComboBox\obj\Debug\CheckComboBox.pdb
+C:\Users\roulinch\source\repos\CheckComboBox\CheckComboBox\obj\Debug\CheckComboBox.CheckComboBox.resources
